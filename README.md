@@ -1,7 +1,7 @@
 # Mon Super Blog !
 
 Bienvenue sur MonSuperBlog, un blog en PHP utilisant l'architecture MVC (Modèle-Vue-Contrôleur). <br>
-<i>Ce blog est en cours de construction et sera alimenté au cours du temps pour lui permettre d'évoluer.<i>
+Ce blog est en cours de construction et sera alimenté au cours du temps pour lui permettre d'évoluer.
 
 ## Prérequis
 
