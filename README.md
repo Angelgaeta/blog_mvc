@@ -1,6 +1,13 @@
 # Mon Super Blog !
 
-Bienvenue sur MonSupeBlog, un blog en PHP utilisant l'architecture MVC (Modèle-Vue-Contrôleur). 
+Bienvenue sur MonSuperBlog, un blog en PHP utilisant l'architecture MVC (Modèle-Vue-Contrôleur). 
+Ce blog est en cours de construction et sera alimenté au cours du temps pour lui permettre d'évoluer.
+
+## Prérequis
+
+- PHP 7.4 ou supérieur
+- Un serveur web (par exemple Apache ou Nginx)
+- Un système de gestion de bases de données (par exemple MySQL)
 
 ## Structure du projet
 
